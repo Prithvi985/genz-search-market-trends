@@ -1,0 +1,7 @@
+track,model_with_search,n,mean_delta_RMSE_pct,n_improved,n_significant
+retail,ARX YoY (search),3,103.96643645548629,0,0
+retail,Prophet (search),3,-9.81909729140973,2,0
+retail (SA),ARX YoY (SA search),3,168.59939327025705,0,0
+retail (SA),Prophet (SA search),3,0.017038967286891953,1,0
+stocks,ARX (search),13,0.8647094378777739,5,0
+stocks,Prophet (search),13,4.346198134451895,2,0

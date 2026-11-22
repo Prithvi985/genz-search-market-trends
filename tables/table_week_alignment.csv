@@ -1,0 +1,5 @@
+google_week_start,google_week_end,aligned_label (W-SUN),trading_days_in_bin
+2019-12-29,2020-01-04,2020-01-05,"Mon 30-Dec, Tue 31-Dec, Thu 02-Jan, Fri 03-Jan"
+2020-01-05,2020-01-11,2020-01-12,"Mon 06-Jan, Tue 07-Jan, Wed 08-Jan, Thu 09-Jan, Fri 10-Jan"
+2020-01-12,2020-01-18,2020-01-19,"Mon 13-Jan, Tue 14-Jan, Wed 15-Jan, Thu 16-Jan, Fri 17-Jan"
+2020-01-19,2020-01-25,2020-01-26,"Tue 21-Jan, Wed 22-Jan, Thu 23-Jan, Fri 24-Jan"

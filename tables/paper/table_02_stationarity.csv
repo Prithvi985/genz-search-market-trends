@@ -1,0 +1,12 @@
+frequency,variable,Conflicting,Inconclusive,Non-stationary,Stationary
+monthly,dlog_sales,0,2,0,1
+monthly,dlog_svi,0,5,0,11
+monthly,log_sales,2,0,1,0
+monthly,log_svi,3,0,12,1
+monthly,yoy_sales,0,0,0,3
+weekly,asvi,0,0,0,16
+weekly,dlog_svi,0,0,0,16
+weekly,exret_mkt,2,0,0,12
+weekly,log_price,1,0,16,0
+weekly,log_svi,2,1,13,0
+weekly,logret,1,0,0,16

@@ -1,0 +1,5 @@
+Niche,Mean search growth / yr,Fastest keyword,Stock growth / yr,Typical search peak,"Search→stock, weekly (FDR)","Stock→search, weekly (FDR)","Search→retail sales, robust (orig.)","Search→retail sales, robust (SA)",Best weekly forecaster,"ARX vs AR, mean ΔRMSE",Best retail model (MAPE)
+Viral Skincare & Beauty,+46%,rare beauty (+83%),ELF (Disruptor) +75%; ULTA (Retailer) +15%; EL (Legacy) -16%,Dec,0 of 12,3 of 12,rare beauty→RSHPCSN,none,"Naive (2), ARX (search) (1)",-0.1%,ARX YoY (search) (3.23%)
+Functional Beverages,+62%,olipop (+109%),CELH (Disruptor) +78%; MNST (Incumbent) +10%; KO (Legacy) +9%,Apr,0 of 12,0 of 12,n/a (no FRED series),n/a (no FRED series),Naive (3),+3.9%,n/a
+Comfort & Performance Footwear,+23%,hoka (+48%),DECK (Disruptor) +42%; ONON (Disruptor) +22%; CROX (Comfort) +28%; BIRK (Comfort) +22%; NKE (Legacy) -5%,Jun,0 of 16,1 of 16,hoka→MRTSSM4482USN,none,"ARX (search) (2), Naive (1), AR(1) (1)",-0.8%,AR(1) YoY (6.53%)
+Resale vs. Fast Fashion,+11%,depop (+19%),TDUP (Resale) -56%; REAL (Resale) -39%; URBN (Fast/Retail) +14%,Aug,0 of 12,2 of 12,none,none,Naive (3),+1.1%,Seasonal naive (2.20%)

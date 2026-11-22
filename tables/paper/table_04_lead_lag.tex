@@ -1,0 +1,30 @@
+\begin{table}[t]
+\scriptsize
+\centering
+\caption{Lead-lag tests: brand$\rightarrow$own stock (A, weekly) and search$\rightarrow$retail sales (C, monthly); BH-adjusted q-values}
+\label{tab:lead_lag}
+\begin{tabular}{lllrrrrrrrlll}
+\toprule
+family & keyword & target & n & lead\_k & rho & q\_CCF & p* & q\_G(S->M) & q\_G(M->S) & granger\_direction & robust\_orig & robust\_SA \\
+\midrule
+A & elf beauty & ELF & 208 & 11 & 0.099 & 0.825 & 1 & 0.740 & 0.358 & No significant link & -- & -- \\
+A & celsius drink & CELH & 208 & 8 & -0.141 & 0.825 & 1 & 0.989 & 0.445 & No significant link & -- & -- \\
+A & hoka & DECK & 208 & 9 & -0.157 & 0.825 & 4 & 0.989 & 0.540 & No significant link & -- & -- \\
+A & on running & ONON & 137 & 1 & -0.173 & 0.825 & 1 & 0.643 & 0.358 & No significant link & -- & -- \\
+A & crocs & CROX & 208 & 7 & 0.126 & 0.825 & 1 & 0.989 & 0.445 & No significant link & -- & -- \\
+A & thredup & TDUP & 157 & 8 & 0.116 & 0.825 & 1 & 0.644 & 0.358 & No significant link & -- & -- \\
+C & elf beauty & RSHPCSN & 47 & 3 & -0.262 & 0.670 & 1 & 0.624 & 0.896 & No significant link & no & no \\
+C & rare beauty & RSHPCSN & 47 & 5 & -0.441 & 0.001 & 6 & 0.063 & 0.412 & No significant link & yes & no \\
+C & lip oil & RSHPCSN & 47 & 2 & 0.150 & 0.990 & 2 & 0.624 & 0.865 & No significant link & no & no \\
+C & makeup dupe & RSHPCSN & 47 & 6 & -0.175 & 0.990 & 1 & 0.512 & 0.763 & No significant link & no & no \\
+C & hoka & MRTSSM4482USN & 47 & 1 & 0.462 & 0.048 & 1 & 0.018 & 0.633 & Search leads & yes & no \\
+C & on running & MRTSSM4482USN & 47 & 5 & -0.290 & 0.586 & 1 & 0.580 & 0.896 & No significant link & no & no \\
+C & birkenstock & MRTSSM4482USN & 47 & 6 & 0.215 & 0.952 & 6 & 0.364 & 0.896 & No significant link & no & no \\
+C & crocs & MRTSSM4482USN & 47 & 1 & 0.141 & 0.990 & 4 & 0.638 & 0.896 & No significant link & no & no \\
+C & depop & RSCCASN & 47 & 6 & -0.408 & 0.043 & 4 & 0.512 & 0.633 & No significant link & no & no \\
+C & thredup & RSCCASN & 47 & 3 & 0.331 & 0.048 & 4 & 0.003 & 0.896 & Search leads & no & no \\
+C & shein & RSCCASN & 47 & 6 & -0.101 & 0.990 & 3 & 0.364 & 0.633 & No significant link & no & no \\
+C & zara & RSCCASN & 47 & 6 & 0.276 & 0.952 & 3 & 0.512 & 0.633 & No significant link & no & no \\
+\bottomrule
+\end{tabular}
+\end{table}

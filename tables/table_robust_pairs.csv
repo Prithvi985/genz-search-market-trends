@@ -1,0 +1,53 @@
+keyword,target,niche,n_specs_significant,robust
+rare beauty,ULTA,beauty,1,False
+rare beauty,ELF,beauty,1,False
+makeup dupe,ULTA,beauty,1,False
+olipop,KO,beverages,1,False
+birkenstock,DECK,footwear,0,False
+birkenstock,NKE,footwear,0,False
+birkenstock,ONON,footwear,0,False
+celsius drink,CELH,beverages,0,False
+celsius drink,KO,beverages,0,False
+celsius drink,MNST,beverages,0,False
+crocs,CROX,footwear,0,False
+crocs,DECK,footwear,0,False
+crocs,NKE,footwear,0,False
+crocs,ONON,footwear,0,False
+depop,REAL,fashion,0,False
+depop,TDUP,fashion,0,False
+alani nu,CELH,beverages,0,False
+alani nu,KO,beverages,0,False
+alani nu,MNST,beverages,0,False
+birkenstock,CROX,footwear,0,False
+elf beauty,ULTA,beauty,0,False
+elf beauty,ELF,beauty,0,False
+elf beauty,EL,beauty,0,False
+depop,URBN,fashion,0,False
+lip oil,EL,beauty,0,False
+lip oil,ELF,beauty,0,False
+hoka,CROX,footwear,0,False
+hoka,DECK,footwear,0,False
+makeup dupe,EL,beauty,0,False
+lip oil,ULTA,beauty,0,False
+makeup dupe,ELF,beauty,0,False
+olipop,CELH,beverages,0,False
+olipop,MNST,beverages,0,False
+on running,CROX,footwear,0,False
+hoka,NKE,footwear,0,False
+hoka,ONON,footwear,0,False
+on running,NKE,footwear,0,False
+on running,DECK,footwear,0,False
+on running,ONON,footwear,0,False
+poppi soda,CELH,beverages,0,False
+poppi soda,MNST,beverages,0,False
+poppi soda,KO,beverages,0,False
+rare beauty,EL,beauty,0,False
+shein,REAL,fashion,0,False
+shein,TDUP,fashion,0,False
+shein,URBN,fashion,0,False
+thredup,REAL,fashion,0,False
+thredup,TDUP,fashion,0,False
+thredup,URBN,fashion,0,False
+zara,REAL,fashion,0,False
+zara,TDUP,fashion,0,False
+zara,URBN,fashion,0,False

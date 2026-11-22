@@ -1,0 +1,17 @@
+\begin{table}[t]
+\scriptsize
+\centering
+\caption{Out-of-sample weekly forecast accuracy, 2024 (averaged over 13 stocks)}
+\label{tab:forecast_weekly}
+\begin{tabular}{lrrrrr}
+\toprule
+model & mean\_RMSE\_return & mean\_MAE\_return & mean\_dir\_acc\_pct & mean\_MAPE\_price\_pct & n\_stocks\_best \\
+\midrule
+Naive & 0.0762 & 0.0526 & -- & 5.3682 & 9 \\
+AR(1) & 0.0773 & 0.0538 & 49.8134 & 5.4902 & 1 \\
+ARX (search) & 0.0775 & 0.0539 & 49.8025 & 5.4911 & 3 \\
+Prophet & 0.0895 & 0.0655 & 50.0928 & 6.6953 & 0 \\
+Prophet (search) & 0.0923 & 0.0687 & 49.8730 & 6.9917 & 0 \\
+\bottomrule
+\end{tabular}
+\end{table}

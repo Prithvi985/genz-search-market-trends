@@ -1,0 +1,4 @@
+family,n_pairs,raw p<0.05: search->mkt (Granger),FDR q<0.05: search->mkt (Granger),FDR q<0.05: mkt->search (Granger),FDR q<0.05: search leads (CCF),FDR q<0.05: mkt leads (CCF)
+A,6,0,0,0,0,0
+B,52,1,0,2,0,4
+C,12,3,2,0,4,0

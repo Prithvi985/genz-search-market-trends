@@ -1,0 +1,18 @@
+\begin{table}[t]
+\scriptsize
+\centering
+\caption{Value of search: change in RMSE versus the same model without search (Diebold--Mariano, BH-adjusted)}
+\label{tab:value_of_search}
+\begin{tabular}{llrrrr}
+\toprule
+track & model\_with\_search & n & mean\_delta\_RMSE\_pct & n\_improved & n\_significant \\
+\midrule
+retail & ARX YoY (search) & 3 & 103.97 & 0 & 0 \\
+retail & Prophet (search) & 3 & -9.82 & 2 & 0 \\
+retail (SA) & ARX YoY (SA search) & 3 & 168.60 & 0 & 0 \\
+retail (SA) & Prophet (SA search) & 3 & 0.02 & 1 & 0 \\
+stocks & ARX (search) & 13 & 0.86 & 5 & 0 \\
+stocks & Prophet (search) & 13 & 4.35 & 2 & 0 \\
+\bottomrule
+\end{tabular}
+\end{table}

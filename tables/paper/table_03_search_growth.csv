@@ -1,0 +1,17 @@
+keyword,niche,growth_%/yr,CI_low_%,CI_high_%,class,trend_strength,seasonal_strength,peak_month,n_spike_weeks
+rare beauty,beauty,82.8,56.4,113.7,Rapidly growing,0.8099268669661868,0.0,Dec,25
+lip oil,beauty,47.8,38.2,58.0,Rapidly growing,0.9175448862449365,0.5418856687338038,Dec,8
+elf beauty,beauty,37.5,29.6,45.8,Rapidly growing,0.7585820789725299,0.0,Dec,10
+makeup dupe,beauty,17.3,13.5,21.2,Growing,0.8181361259996192,0.4791809626160216,Jan,0
+olipop,beverages,109.0,92.5,126.9,Rapidly growing,0.966149210077358,0.559541140540308,Feb,23
+poppi soda,beverages,101.7,81.4,124.4,Rapidly growing,0.9280372349992806,0.4614603534747935,Apr,13
+celsius drink,beverages,36.4,23.7,50.4,Rapidly growing,0.9114312321135962,0.3860721257000005,Mar,11
+alani nu,beverages,1.2,-5.8,8.8,No significant trend,0.628064521104855,0.4042780110459625,Jan,20
+depop,fashion,18.6,11.9,25.7,Growing,0.7511603286043709,0.22190287840717193,Aug,10
+shein,fashion,18.5,9.8,27.8,Growing,0.9248471082457368,0.7691928881718902,May,1
+zara,fashion,13.5,9.1,18.1,Growing,0.8188198742918756,0.5618619565030727,Dec,1
+thredup,fashion,-5.3,-7.9,-2.7,Declining,0.3877013155454736,0.6050998948706192,Jul,0
+hoka,footwear,48.2,41.2,55.5,Rapidly growing,0.976472721697005,0.5389260518962767,Jun,0
+birkenstock,footwear,25.8,17.2,34.9,Rapidly growing,0.8609586367389697,0.8420214615331655,Jun,6
+on running,footwear,9.2,7.6,10.8,Growing,0.8138627295854205,0.2630841828417262,May,0
+crocs,footwear,8.3,1.5,15.5,Growing,0.398418183589772,0.6952399777681006,Dec,6

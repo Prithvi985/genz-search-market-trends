@@ -1,0 +1,17 @@
+keyword,source,n_pulls,pull_reliability,pct_zero
+elf beauty,api (cached),3,0.9999999999999997,0.0
+rare beauty,api (cached),3,0.9999999999999997,3.816793893129771
+lip oil,api (cached),3,1.0,0.0
+makeup dupe,api (cached),3,1.0,0.0
+celsius drink,api (cached),3,1.0,0.0
+poppi soda,api (cached),3,0.9999999999999997,19.083969465648856
+olipop,api (cached),3,1.0,1.1450381679389312
+alani nu,api (cached),3,1.0,0.0
+hoka,api (cached),3,0.9999999999999997,0.0
+on running,api (cached),3,0.9999999999999999,0.0
+birkenstock,api (cached),3,1.0,0.0
+crocs,api (cached),3,1.0,0.0
+depop,api (cached),3,1.0,0.0
+thredup,api (cached),3,1.0,0.0
+shein,api (cached),3,0.9999999999999997,0.0
+zara,api,1,,0.0

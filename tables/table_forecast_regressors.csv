@@ -1,0 +1,17 @@
+track,target,niche,keyword,rule,L,train_q_granger
+stocks,ELF,beauty,elf beauty,own brand keyword,1,0.9127026332971762
+stocks,ULTA,beauty,lip oil,lowest training Granger q in niche,1,0.9127026332971762
+stocks,EL,beauty,elf beauty,lowest training Granger q in niche,1,0.700896116891252
+stocks,CELH,beverages,celsius drink,own brand keyword,1,0.9355771651798369
+stocks,MNST,beverages,poppi soda,lowest training Granger q in niche,4,0.700896116891252
+stocks,KO,beverages,celsius drink,lowest training Granger q in niche,2,0.11552187208871441
+stocks,DECK,footwear,hoka,own brand keyword,4,0.9893308117646821
+stocks,ONON,footwear,on running,own brand keyword,1,0.700896116891252
+stocks,CROX,footwear,crocs,own brand keyword,1,0.9893308117646821
+stocks,NKE,footwear,on running,lowest training Granger q in niche,1,0.775562552973111
+stocks,TDUP,fashion,thredup,own brand keyword,1,0.8761052923034685
+stocks,REAL,fashion,depop,lowest training Granger q in niche,1,0.9127026332971762
+stocks,URBN,fashion,shein,lowest training Granger q in niche,2,0.700896116891252
+retail,RSHPCSN,beauty,rare beauty,lowest training Granger q in niche,3,0.06303295502894314
+retail,MRTSSM4482USN,footwear,hoka,lowest training Granger q in niche,1,0.017641909580705384
+retail,RSCCASN,fashion,thredup,lowest training Granger q in niche,3,0.0027964656463045573

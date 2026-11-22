@@ -1,0 +1,4 @@
+series_id,source,title,units,seasonal_adjustment,series_last_observation
+RSHPCSN,fred api,Advance Retail Sales: Health and Personal Care Stores,Millions of Dollars,Not Seasonally Adjusted,2026-10-01
+MRTSSM4482USN,fred api,Retail Sales: Shoe Stores,Millions of Dollars,Not Seasonally Adjusted,2026-09-01
+RSCCASN,fred api,Advance Retail Sales: Clothing and Clothing Accessory Stores,Millions of Dollars,Not Seasonally Adjusted,2026-10-01

@@ -1,0 +1,13 @@
+family,variant,# pairs Granger q<0.05,# pairs CCF-lead q<0.05
+A,Primary,0,0
+B,Primary,0,0
+A,R1 abnormal SVI,0,0
+B,R1 abnormal SVI,0,0
+A,R2 raw returns,0,0
+B,R2 raw returns,2,0
+A,R3 sector-adj.,0,0
+B,R3 sector-adj.,1,0
+A,R4 excl. 2020,0,0
+B,R4 excl. 2020,0,0
+A,R5 full sample,0,0
+B,R5 full sample,0,1

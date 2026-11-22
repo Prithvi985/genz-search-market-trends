@@ -1,0 +1,177 @@
+{
+  "first_extracted_utc": "2026-11-22T13:17:01+00:00",
+  "last_updated_utc": "2026-11-22T16:32:13+00:00",
+  "python": "3.13.18",
+  "packages": {
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "yfinance": "1.8.0",
+    "pytrends": "4.9.2"
+  },
+  "trends_sources": {
+    "elf beauty": "api (cached)",
+    "rare beauty": "api (cached)",
+    "lip oil": "api (cached)",
+    "makeup dupe": "api (cached)",
+    "celsius drink": "api (cached)",
+    "poppi soda": "api (cached)",
+    "olipop": "api (cached)",
+    "alani nu": "api (cached)",
+    "hoka": "api (cached)",
+    "on running": "api (cached)",
+    "birkenstock": "api (cached)",
+    "crocs": "api (cached)",
+    "depop": "api (cached)",
+    "thredup": "api (cached)",
+    "shein": "api (cached)",
+    "zara": "api"
+  },
+  "config": {
+    "study_start": "2020-01-01",
+    "study_end": "2024-12-31",
+    "market_pad_start": "2019-12-01",
+    "fred_pad_start": "2019-01-01",
+    "geo": "US",
+    "freq": "W-SUN",
+    "min_model_weeks": 150,
+    "seed": 42,
+    "trends": {
+      "n_pulls": 1,
+      "sleep_range": [
+        8,
+        15
+      ],
+      "max_retries": 4,
+      "backoff_base": 20,
+      "circuit_breaker": 2
+    },
+    "niches": {
+      "beauty": {
+        "label": "Viral Skincare & Beauty",
+        "keywords": {
+          "elf beauty": {
+            "role": "Brand",
+            "linked_ticker": "ELF"
+          },
+          "rare beauty": {
+            "role": "Brand",
+            "linked_ticker": null
+          },
+          "lip oil": {
+            "role": "Product trend",
+            "linked_ticker": null
+          },
+          "makeup dupe": {
+            "role": "Behaviour trend",
+            "linked_ticker": null
+          }
+        },
+        "tickers": {
+          "ELF": "Disruptor",
+          "ULTA": "Retailer",
+          "EL": "Legacy"
+        },
+        "fred": {
+          "RSHPCSN": "Health & Personal Care Stores (NSA)"
+        }
+      },
+      "beverages": {
+        "label": "Functional Beverages",
+        "keywords": {
+          "celsius drink": {
+            "role": "Brand",
+            "linked_ticker": "CELH"
+          },
+          "poppi soda": {
+            "role": "Brand",
+            "linked_ticker": null
+          },
+          "olipop": {
+            "role": "Brand",
+            "linked_ticker": null
+          },
+          "alani nu": {
+            "role": "Brand",
+            "linked_ticker": null
+          }
+        },
+        "tickers": {
+          "CELH": "Disruptor",
+          "MNST": "Incumbent",
+          "KO": "Legacy"
+        },
+        "fred": {}
+      },
+      "footwear": {
+        "label": "Comfort & Performance Footwear",
+        "keywords": {
+          "hoka": {
+            "role": "Brand",
+            "linked_ticker": "DECK"
+          },
+          "on running": {
+            "role": "Brand",
+            "linked_ticker": "ONON"
+          },
+          "birkenstock": {
+            "role": "Brand",
+            "linked_ticker": "BIRK"
+          },
+          "crocs": {
+            "role": "Brand",
+            "linked_ticker": "CROX"
+          }
+        },
+        "tickers": {
+          "DECK": "Disruptor",
+          "ONON": "Disruptor",
+          "CROX": "Comfort",
+          "BIRK": "Comfort",
+          "NKE": "Legacy"
+        },
+        "fred": {
+          "MRTSSM4482USN": "Shoe Stores (NSA)"
+        }
+      },
+      "fashion": {
+        "label": "Resale vs. Fast Fashion",
+        "keywords": {
+          "depop": {
+            "role": "Resale",
+            "linked_ticker": null
+          },
+          "thredup": {
+            "role": "Resale",
+            "linked_ticker": "TDUP"
+          },
+          "shein": {
+            "role": "Fast fashion",
+            "linked_ticker": null
+          },
+          "zara": {
+            "role": "Fast fashion",
+            "linked_ticker": null
+          }
+        },
+        "tickers": {
+          "TDUP": "Resale",
+          "REAL": "Resale",
+          "URBN": "Fast/Retail"
+        },
+        "fred": {
+          "RSCCASN": "Clothing & Clothing Accessory Stores (NSA)"
+        }
+      }
+    },
+    "benchmarks": {
+      "SPY": "S&P 500 (market)",
+      "XLY": "Consumer Discretionary sector",
+      "XLP": "Consumer Staples sector"
+    }
+  },
+  "fred_sources": {
+    "RSHPCSN": "fred api",
+    "MRTSSM4482USN": "fred api",
+    "RSCCASN": "fred api"
+  }
+}

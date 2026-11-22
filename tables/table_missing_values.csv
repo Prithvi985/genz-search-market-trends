@@ -1,0 +1,54 @@
+dataset,series,n_periods,first_obs,n_before_first_obs,n_internal_missing,fill_method
+Google Trends (weekly),elf beauty,262,2020-01-05,0,0,none needed
+Google Trends (weekly),rare beauty,262,2020-01-05,0,0,none needed
+Google Trends (weekly),lip oil,262,2020-01-05,0,0,none needed
+Google Trends (weekly),makeup dupe,262,2020-01-05,0,0,none needed
+Google Trends (weekly),celsius drink,262,2020-01-05,0,0,none needed
+Google Trends (weekly),poppi soda,262,2020-01-05,0,0,none needed
+Google Trends (weekly),olipop,262,2020-01-05,0,0,none needed
+Google Trends (weekly),alani nu,262,2020-01-05,0,0,none needed
+Google Trends (weekly),hoka,262,2020-01-05,0,0,none needed
+Google Trends (weekly),on running,262,2020-01-05,0,0,none needed
+Google Trends (weekly),birkenstock,262,2020-01-05,0,0,none needed
+Google Trends (weekly),crocs,262,2020-01-05,0,0,none needed
+Google Trends (weekly),depop,262,2020-01-05,0,0,none needed
+Google Trends (weekly),thredup,262,2020-01-05,0,0,none needed
+Google Trends (weekly),shein,262,2020-01-05,0,0,none needed
+Google Trends (weekly),zara,262,2020-01-05,0,0,none needed
+Adj. close (weekly),BIRK,262,2023-10-15,197,0,none needed
+Adj. close (weekly),CELH,262,2020-01-05,0,0,none needed
+Adj. close (weekly),CROX,262,2020-01-05,0,0,none needed
+Adj. close (weekly),DECK,262,2020-01-05,0,0,none needed
+Adj. close (weekly),EL,262,2020-01-05,0,0,none needed
+Adj. close (weekly),ELF,262,2020-01-05,0,0,none needed
+Adj. close (weekly),KO,262,2020-01-05,0,0,none needed
+Adj. close (weekly),MNST,262,2020-01-05,0,0,none needed
+Adj. close (weekly),NKE,262,2020-01-05,0,0,none needed
+Adj. close (weekly),ONON,262,2021-09-19,89,0,none needed
+Adj. close (weekly),REAL,262,2020-01-05,0,0,none needed
+Adj. close (weekly),SPY,262,2020-01-05,0,0,none needed
+Adj. close (weekly),TDUP,262,2021-03-28,64,0,none needed
+Adj. close (weekly),ULTA,262,2020-01-05,0,0,none needed
+Adj. close (weekly),URBN,262,2020-01-05,0,0,none needed
+Adj. close (weekly),XLP,262,2020-01-05,0,0,none needed
+Adj. close (weekly),XLY,262,2020-01-05,0,0,none needed
+Volume (weekly),BIRK,262,2023-10-15,197,0,none needed
+Volume (weekly),CELH,262,2020-01-05,0,0,none needed
+Volume (weekly),CROX,262,2020-01-05,0,0,none needed
+Volume (weekly),DECK,262,2020-01-05,0,0,none needed
+Volume (weekly),EL,262,2020-01-05,0,0,none needed
+Volume (weekly),ELF,262,2020-01-05,0,0,none needed
+Volume (weekly),KO,262,2020-01-05,0,0,none needed
+Volume (weekly),MNST,262,2020-01-05,0,0,none needed
+Volume (weekly),NKE,262,2020-01-05,0,0,none needed
+Volume (weekly),ONON,262,2021-09-19,89,0,none needed
+Volume (weekly),REAL,262,2020-01-05,0,0,none needed
+Volume (weekly),SPY,262,2020-01-05,0,0,none needed
+Volume (weekly),TDUP,262,2021-03-28,64,0,none needed
+Volume (weekly),ULTA,262,2020-01-05,0,0,none needed
+Volume (weekly),URBN,262,2020-01-05,0,0,none needed
+Volume (weekly),XLP,262,2020-01-05,0,0,none needed
+Volume (weekly),XLY,262,2020-01-05,0,0,none needed
+FRED retail sales (monthly),RSHPCSN,60,2020-01-01,0,0,none needed
+FRED retail sales (monthly),MRTSSM4482USN,60,2020-01-01,0,0,none needed
+FRED retail sales (monthly),RSCCASN,60,2020-01-01,0,0,none needed

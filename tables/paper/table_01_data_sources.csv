@@ -1,0 +1,37 @@
+source,series,niche,role,start,end,n_obs,flag
+Google Trends,elf beauty,beauty,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,rare beauty,beauty,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,lip oil,beauty,Product trend,2019-12-29,2024-12-29,262,OK
+Google Trends,makeup dupe,beauty,Behaviour trend,2019-12-29,2024-12-29,262,OK
+Google Trends,celsius drink,beverages,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,poppi soda,beverages,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,olipop,beverages,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,alani nu,beverages,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,hoka,footwear,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,on running,footwear,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,birkenstock,footwear,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,crocs,footwear,Brand,2019-12-29,2024-12-29,262,OK
+Google Trends,depop,fashion,Resale,2019-12-29,2024-12-29,262,OK
+Google Trends,thredup,fashion,Resale,2019-12-29,2024-12-29,262,OK
+Google Trends,shein,fashion,Fast fashion,2019-12-29,2024-12-29,262,OK
+Google Trends,zara,fashion,Fast fashion,2019-12-29,2024-12-29,262,OK
+Yahoo Finance,ELF,beauty,Disruptor,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,ULTA,beauty,Retailer,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,EL,beauty,Legacy,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,CELH,beverages,Disruptor,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,MNST,beverages,Incumbent,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,KO,beverages,Legacy,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,DECK,footwear,Disruptor,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,ONON,footwear,Disruptor,2021-09-15,2024-12-31,829,"Own window (from 2021-09-15, 173 wks)"
+Yahoo Finance,CROX,footwear,Comfort,2020-01-02,2024-12-31,1258,"Large weekly move (-44%, week ending 2020-03-22): check news"
+Yahoo Finance,BIRK,footwear,Comfort,2023-10-11,2024-12-31,308,"Exploratory only (from 2023-10-11, 65 wks)"
+Yahoo Finance,NKE,footwear,Legacy,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,TDUP,fashion,Resale,2021-03-26,2024-12-31,948,"Own window (from 2021-03-26, 198 wks)"
+Yahoo Finance,REAL,fashion,Resale,2020-01-02,2024-12-31,1258,"Large weekly move (+65%, week ending 2024-03-03): check news"
+Yahoo Finance,URBN,fashion,Fast/Retail,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,SPY,benchmark,S&P 500 (market),2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,XLY,benchmark,Consumer Discretionary sector,2020-01-02,2024-12-31,1258,OK
+Yahoo Finance,XLP,benchmark,Consumer Staples sector,2020-01-02,2024-12-31,1258,OK
+FRED,RSHPCSN,beauty,Health & Personal Care Stores (NSA),2020-01-01,2024-12-01,60,OK
+FRED,MRTSSM4482USN,footwear,Shoe Stores (NSA),2020-01-01,2024-12-01,60,OK
+FRED,RSCCASN,fashion,Clothing & Clothing Accessory Stores (NSA),2020-01-01,2024-12-01,60,OK

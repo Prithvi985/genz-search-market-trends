@@ -1,0 +1,15 @@
+\begin{table}[t]
+\scriptsize
+\centering
+\caption{Out-of-sample MAPE (\%) of monthly retail-sales forecasts, 2024}
+\label{tab:forecast_monthly}
+\begin{tabular}{lrrrrrrr}
+\toprule
+series & Seasonal naive & AR(1) YoY & ARX YoY (search) & Prophet & Prophet (search) & ARX YoY (SA search) & Prophet (SA search) \\
+\midrule
+RSHPCSN & 7.25 & 3.25 & 3.23 & 4.18 & 3.59 & 3.35 & 4.16 \\
+MRTSSM4482USN & 7.62 & 6.53 & 12.92 & 13.09 & 11.21 & 13.92 & 13.94 \\
+RSCCASN & 2.20 & 2.33 & 5.05 & 7.93 & 8.43 & 9.49 & 8.42 \\
+\bottomrule
+\end{tabular}
+\end{table}

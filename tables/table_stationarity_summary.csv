@@ -1,0 +1,12 @@
+frequency,variable,Stationary,Non-stationary,Conflicting,Inconclusive,Too short / constant,n_series
+weekly,log_svi,0,13,2,1,0,16
+weekly,dlog_svi,16,0,0,0,0,16
+weekly,asvi,16,0,0,0,0,16
+weekly,log_price,0,16,1,0,0,17
+weekly,logret,16,0,1,0,0,17
+weekly,exret_mkt,12,0,2,0,0,14
+monthly,log_svi,1,12,3,0,0,16
+monthly,dlog_svi,11,0,0,5,0,16
+monthly,log_sales,0,1,2,0,0,3
+monthly,dlog_sales,1,0,0,2,0,3
+monthly,yoy_sales,3,0,0,0,0,3

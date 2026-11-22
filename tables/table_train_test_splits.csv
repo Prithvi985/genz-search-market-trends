@@ -1,0 +1,34 @@
+series,kind,first_week,split_week,n_train,n_test,train_share,status
+ELF,stock,2020-01-05,2024-01-07,209,53,0.798,model
+ULTA,stock,2020-01-05,2024-01-07,209,53,0.798,model
+EL,stock,2020-01-05,2024-01-07,209,53,0.798,model
+CELH,stock,2020-01-05,2024-01-07,209,53,0.798,model
+MNST,stock,2020-01-05,2024-01-07,209,53,0.798,model
+KO,stock,2020-01-05,2024-01-07,209,53,0.798,model
+DECK,stock,2020-01-05,2024-01-07,209,53,0.798,model
+ONON,stock,2021-09-26,2024-05-12,137,35,0.797,model
+CROX,stock,2020-01-05,2024-01-07,209,53,0.798,model
+BIRK,stock,2023-10-22,2024-10-13,51,13,0.797,exploratory only
+NKE,stock,2020-01-05,2024-01-07,209,53,0.798,model
+TDUP,stock,2021-04-04,2024-04-07,157,40,0.797,model
+REAL,stock,2020-01-05,2024-01-07,209,53,0.798,model
+URBN,stock,2020-01-05,2024-01-07,209,53,0.798,model
+SPY,stock,2020-01-05,2024-01-07,209,53,0.798,model
+XLY,stock,2020-01-05,2024-01-07,209,53,0.798,model
+XLP,stock,2020-01-05,2024-01-07,209,53,0.798,model
+elf beauty,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+rare beauty,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+lip oil,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+makeup dupe,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+celsius drink,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+poppi soda,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+olipop,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+alani nu,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+hoka,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+on running,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+birkenstock,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+crocs,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+depop,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+thredup,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+shein,keyword,2020-01-05,2024-01-07,209,53,0.798,model
+zara,keyword,2020-01-05,2024-01-07,209,53,0.798,model

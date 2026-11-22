@@ -1,0 +1,12 @@
+family,niche,n_pairs,H1 (CCF lead),H1 pairs [lead k],H2 (Granger),H2 pairs [lag p],Reverse (market→search),Robust (Family C only)
+A,Comfort & Performance Footwear,3,Not supported,–,Not supported,–,0,–
+A,Functional Beverages,1,Not supported,–,Not supported,–,0,–
+A,Resale vs. Fast Fashion,1,Not supported,–,Not supported,–,0,–
+A,Viral Skincare & Beauty,1,Not supported,–,Not supported,–,0,–
+B,Comfort & Performance Footwear,16,Not supported,–,Not supported,–,0,–
+B,Functional Beverages,12,Not supported,–,Not supported,–,0,–
+B,Resale vs. Fast Fashion,12,Not supported,–,Not supported,–,1,–
+B,Viral Skincare & Beauty,12,Not supported,–,Not supported,–,1,–
+C,Comfort & Performance Footwear,4,Supported (1),hoka→MRTSSM4482USN [k=1],Supported (1),hoka→MRTSSM4482USN [p=1],0,hoka→MRTSSM4482USN
+C,Resale vs. Fast Fashion,4,Supported (2),depop→RSCCASN [k=6]; thredup→RSCCASN [k=3],Supported (1),thredup→RSCCASN [p=4],0,none
+C,Viral Skincare & Beauty,4,Supported (1),rare beauty→RSHPCSN [k=5],Not supported,–,0,rare beauty→RSHPCSN
